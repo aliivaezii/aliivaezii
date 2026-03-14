@@ -160,3 +160,4 @@ Industrial engineer with **5 years of industry experience** in data analysis and
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=100&section=footer" alt="Footer"/>
 </p>
 
+<!-- profile v2 -->
