@@ -3,9 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://aliivaezii.github.io"><img src="https://img.shields.io/badge/Portfolio-aliivaezii.github.io-0969DA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://aliivaezii.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-alivaezi.me-0969DA?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/aliivaezii"><img src="https://img.shields.io/badge/LinkedIn-aliivaezii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://scholar.google.com/citations?user=srfI0AMAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-46%2B_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://scholar.google.com/citations?user=srfI0AMAAAAJ"><img src="https://img.shields.io/badge/Scholar-46+_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://aliivaezii.github.io/assets/Ali_Vaezi_CV.pdf"><img src="https://img.shields.io/badge/📄_Download_CV-PDF-FF5722?style=for-the-badge" alt="CV"/></a>
 </p>
 
 <p align="center">
@@ -14,133 +15,107 @@
 
 ---
 
-## 🎓 About Me
+## 🎯 About Me
 
-I'm a **final-semester MSc student at Politecnico di Torino** specializing in **Reinforcement Learning**, **Mathematical Optimization**, and **Supply Chain Management**. With **5 years of industry experience** as a Business Data Analyst and **8 published papers** (46+ citations), I bridge the gap between academic research and real-world applications.
+Industrial engineer with **5 years of industry experience** in data analysis and a research profile combining **machine learning, reinforcement learning, and mathematical optimization**.
 
-- 🔬 **Research Focus:** RL for supply chain optimization, sim-to-real robotics, multi-criteria decision making
-- 📝 **Published in:** Journal of Cleaner Production (IF 9.8), IEEE RA-L (under review)
-- 🎯 **GRE Score:** 332/340
-- 🌍 **Languages:** English (C1/C2), Persian (Native), Italian (A2)
+- 🎓 **Final-semester MSc** at **Politecnico di Torino** (QS #241)
+- 📊 Published in **Journal of Cleaner Production** (IF 10, **46 citations**)
+- 🤖 Paper **under review at IEEE RA-L** on sim-to-real robotics
+- 🏆 **#1 on leaderboard** at I3P AI Hackathon (Politecnico di Torino)
+- 📈 **GRE: 332/340** (Verbal 163, Quantitative 169)
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Period | Achievement |
-|--------|-------------|--------|-------------|
-| **MSc** Digital Skills for Sustainable Societal Transitions | **Politecnico di Torino** 🇮🇹 | 2024–2026 | 101/110 |
-| **BSc** Industrial Engineering | **Islamic Azad University** 🇮🇷 | 2019–2023 | GPA 3.69/4.0 |
+| Degree | Institution | Period | GPA |
+|--------|-------------|--------|-----|
+| **MSc** Digital Skills for Sustainable Societal Transitions | **Politecnico di Torino** 🇮🇹 | 2024–2026 | 101/110 (~3.7/4.0) |
+| **BSc** Industrial Engineering | **Islamic Azad University** 🇮🇷 | 2019–2023 | 3.69/4.0 |
 
 ---
 
 ## 💼 Experience
 
-**Business Data Analyst** @ **Parva Co.** *(Oct 2019 – Sep 2024)*
-> Automotive Supply Chain · Tehran, Iran
+### Business Data Analyst @ **Parva Co.** 
+*Oct 2019 – Sep 2024 · Automotive Supply Chain · Tehran, Iran*
 
-- 📉 Reduced stockouts by **15%** through optimized demand forecasting
-- 📊 Built automated **KPI dashboards** using Python, SQL, and Power BI
-- 🔄 Led data-driven decision-making across procurement, inventory, and logistics
+- 📊 Analyzed supply chain data (orders, inventory, supplier performance) using **Python, SQL, and statistical methods**
+- 📉 Built **KPI dashboards**, automated reporting pipelines, and predictive models
+- 🔄 Collaborated cross-functionally over **5 years** across procurement, logistics, and demand planning
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,r,matlab,git,linux,docker,fastapi,react&perline=11" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,r,matlab,git,linux,docker,fastapi&perline=10" alt="Tech Stack"/>
 </p>
 
-### Core Competencies
-
-| Domain | Technologies & Methods |
-|--------|----------------------|
-| **Reinforcement Learning** | PPO, DQN, SAC, REINFORCE, Actor-Critic, MuJoCo, Gymnasium |
+| Domain | Technologies |
+|--------|-------------|
+| **Programming** | Python (NumPy, Pandas, Sklearn), SQL, R, MATLAB, C |
+| **ML & Deep Learning** | PyTorch, TensorFlow, Scikit-learn, OpenCV |
+| **Reinforcement Learning** | PPO, SAC, DQN, REINFORCE, Actor-Critic, MuJoCo, Gymnasium |
 | **Optimization** | Gurobi, CPLEX, GAMS, MILP, BWM, TOPSIS, Fuzzy MCDM |
-| **ML & Deep Learning** | PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, OpenCV |
-| **Data & Analytics** | SQL, Power BI, SPSS, Matplotlib, QGIS |
-| **IoT & DevOps** | MQTT, Raspberry Pi, Docker, REST APIs, FastAPI |
+| **Data & Analytics** | Power BI, SPSS, Matplotlib, QGIS |
+| **IoT & DevOps** | Docker, REST APIs, MQTT, FastAPI, Raspberry Pi |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 All Repositories
 
-<table>
-<tr>
-<td width="50%">
+### 🔬 Research Projects
 
-### 🏭 [SUPRA-PPO](https://github.com/aliivaezii/FBWM-FTOPSIS-PPO)
-**Fuzzy MCDM + PPO for Supply Chain**
+| Repository | Description | Tech |
+|------------|-------------|------|
+| [**FBWM-FTOPSIS-PPO**](https://github.com/aliivaezii/FBWM-FTOPSIS-PPO) | Hybrid MCDM–RL framework for sustainable supplier order allocation under uncertainty | `PPO` `Fuzzy MCDM` `Gymnasium` |
+| [**sim2real**](https://github.com/aliivaezii/sim2real) | Sim-to-Real RL for MuJoCo Hopper with domain randomization & curriculum learning *(IEEE RA-L under review)* | `MuJoCo` `PPO` `REINFORCE` |
+| [**Turin-MicromobilityAnalysis**](https://github.com/aliivaezii/Turin-MicromobilityAnalysis) | Spatial-temporal analysis of 2.5M+ e-scooter trips in Turin | `STL` `Kaplan-Meier` `Moran's I` |
+| [**nyc-heat-risk-analysis**](https://github.com/aliivaezii/nyc-heat-risk-analysis) | Urban Heat Risk Mapping in NYC using GIS and Fuzzy AHP | `QGIS` `Fuzzy AHP` `GAMS` |
 
-Two-phase framework combining Fuzzy BWM + Fuzzy TOPSIS with PPO for supplier order allocation under stochastic demand and disruptions.
+### 🏆 Hackathon Projects
 
-`PPO` `Fuzzy MCDM` `Supply Chain` `Gymnasium`
+| Repository | Description | Achievement |
+|------------|-------------|-------------|
+| [**weld-anomaly-classifier**](https://github.com/aliivaezii/weld-anomaly-classifier) | WeldFusionNet: Multimodal deep learning for weld defect classification (F1: 0.957) | **#1 Leaderboard** |
+| [**RL-Mobility-Optimizer**](https://github.com/aliivaezii/RL-Mobility-Optimizer) | MoveWise: DQN-powered MaaS platform with behavioral nudging | NEXUS 2026 |
+| [**MALTO**](https://github.com/aliivaezii/MALTO) | Human vs. AI-Generated Text Classification | Kaggle Hackathon |
 
-</td>
-<td width="50%">
+### 🌐 IoT & Open Source
 
-### 🤖 [Sim-to-Real Locomotion](https://github.com/aliivaezii/sim2real)
-**IEEE RA-L (Submitted)**
+| Repository | Description | Tech |
+|------------|-------------|------|
+| [**Smart-Precision-Irrigation**](https://github.com/aliivaezii/Smart-Precision-Irrigation) | IoT precision irrigation with MQTT microservices and Telegram alerts | `Raspberry Pi` `MQTT` `REST` |
+| [**PySyDy**](https://github.com/aliivaezii/PySyDy) | System Dynamics library → evolved into [OpenCLD](https://pypi.org/project/opencld/) on PyPI | `PyPI` `System Dynamics` |
+| [**aliivaezii.github.io**](https://github.com/aliivaezii/aliivaezii.github.io) | Personal portfolio website | `HTML` `CSS` `JS` |
 
-Robust locomotion policies with domain randomization and curriculum learning (ES-CDR) on custom MuJoCo Hopper.
+---
 
-`MuJoCo` `Domain Randomization` `PPO` `REINFORCE`
+## 📚 Publications
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔥 [WeldFusionNet](https://github.com/aliivaezii/weld-anomaly-classifier)
-**#1 on I3P Hackathon Leaderboard**
-
-Multi-modal fusion network for weld defect classification (F1=0.957) using 1D-CNN, MobileNetV3, and focal loss.
-
-`Multimodal` `CNN` `Focal Loss` `Streamlit`
-
-</td>
-<td width="50%">
-
-### 🚗 [MoveWise](https://github.com/aliivaezii/RL-Mobility-Optimizer)
-**DQN-Powered MaaS Platform**
-
-Mobility-as-a-Service app with DQN for personalized multimodal routing and behavioral nudging for green transport.
-
-`DQN` `React` `Three.js` `FastAPI` `Docker`
-
-</td>
-</tr>
-</table>
+| # | Title | Venue | Status |
+|---|-------|-------|--------|
+| 1 | **Blockchain-Integrated Sustainable Supplier Selection Using BWM-MULTIMOORA** | *J. Cleaner Production* | **IF 10 · 46 Citations** |
+| 2 | **Curriculum Randomization for Robust Sim-to-Real Locomotion** | *IEEE RA-L* | Under Review |
+| 3 | **Hybrid FBWM-FTOPSIS-PPO for Dynamic Order Allocation Under Uncertainty** | *Target: J. Cleaner Production* | In Preparation |
 
 <p align="center">
-  <a href="https://github.com/aliivaezii?tab=repositories"><img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/></a>
+  <em>+ 6 working papers on <a href="https://www.researchgate.net/profile/Ali-Vaezi-6/research">ResearchGate</a> & <a href="https://ssrn.com/author=5666191">SSRN</a></em>
 </p>
 
 ---
 
-## 📚 Selected Publications
-
-| Year | Title | Venue | Impact |
-|------|-------|-------|--------|
-| 2024 | **Blockchain-Integrated Sustainable Supplier Selection** | *J. Cleaner Production* | **IF 9.8 · 46+ Citations** |
-| 2025 | **Curriculum Randomization for Sim-to-Real Locomotion** | *IEEE RA-L* | Under Review |
-| 2026 | **Hybrid FBWM-FTOPSIS-PPO for Dynamic Order Allocation** | *Target: J. Cleaner Production* | In Preparation |
+## 🏅 Certifications
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=srfI0AMAAAAJ"><img src="https://img.shields.io/badge/Full_Publication_List-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Publications"/></a>
-  <a href="https://www.researchgate.net/profile/Ali-Vaezi-6"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
-</p>
-
----
-
-## 🏆 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Stanford-ML_Specialization-B83A3A?style=flat-square&logo=stanford&logoColor=white" alt="Stanford"/>
-  <img src="https://img.shields.io/badge/IBM-Data_Science_Professional-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/>
-  <img src="https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/>
-  <img src="https://img.shields.io/badge/Harvard-CS50x-A51C30?style=flat-square&logo=harvard&logoColor=white" alt="Harvard"/>
-  <img src="https://img.shields.io/badge/IEEE-Graduate_Member-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE"/>
+  <img src="https://img.shields.io/badge/Stanford-ML_Specialization-B83A3A?style=flat-square" alt="Stanford"/>
+  <img src="https://img.shields.io/badge/deeplearning.ai-Deep_Learning-0056D2?style=flat-square" alt="DL.ai"/>
+  <img src="https://img.shields.io/badge/IBM-Data_Science-054ADA?style=flat-square" alt="IBM"/>
+  <img src="https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=flat-square" alt="Google"/>
+  <img src="https://img.shields.io/badge/Harvard-CS50x-A51C30?style=flat-square" alt="Harvard"/>
+  <img src="https://img.shields.io/badge/Udemy-Reinforcement_Learning-A435F0?style=flat-square" alt="Udemy"/>
 </p>
 
 ---
@@ -158,21 +133,31 @@ Mobility-as-a-Service app with DQN for personalized multimodal routing and behav
 
 ---
 
-## 📫 Let's Connect
+## 🌍 Languages
+
+| Language | Level |
+|----------|-------|
+| 🇬🇧 English | C1/C2 (Advanced) |
+| 🇮🇷 Persian | Native |
+| 🇮🇹 Italian | A2 |
+
+---
+
+## 📫 Contact
 
 <p align="center">
-  <a href="mailto:contact.alivaezi@gmail.com"><img src="https://img.shields.io/badge/Email-contact.alivaezi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="mailto:ali.vaezi@studenti.polito.it"><img src="https://img.shields.io/badge/Academic-ali.vaezi%40studenti.polito.it-0969DA?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Academic Email"/></a>
+  <a href="mailto:contact.alivaezi@gmail.com"><img src="https://img.shields.io/badge/Personal-contact.alivaezi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/></a>
 </p>
 
 <p align="center">
-  <a href="https://aliivaezii.github.io/assets/Ali_Vaezi_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV"/></a>
+  📞 +39 351 760 3741
 </p>
 
 ---
 
 <p align="center">
-  <em>Open to research collaborations, thesis opportunities, and industry positions in AI/ML and Operations Research.</em>
+  <em>🔬 Open to research collaborations, thesis opportunities, and industry positions in AI/ML and Operations Research</em>
 </p>
 
 <p align="center">
