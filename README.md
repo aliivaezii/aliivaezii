@@ -75,6 +75,12 @@ Industrial engineer with **5 years of industry experience** in data analysis and
 | [**Turin-MicromobilityAnalysis**](https://github.com/aliivaezii/Turin-MicromobilityAnalysis) | Spatial-temporal analysis of 2.5M+ e-scooter trips in Turin | `STL` `Kaplan-Meier` `Moran's I` |
 | [**nyc-heat-risk-analysis**](https://github.com/aliivaezii/nyc-heat-risk-analysis) | Urban Heat Risk Mapping in NYC using GIS and Fuzzy AHP | `QGIS` `Fuzzy AHP` `GAMS` |
 
+### Platform Projects
+
+| Repository | Description | Tech |
+|------------|-------------|------|
+| [**kpi-lens**](https://github.com/aliivaezii/kpi-lens) | Supply chain intelligence platform — 8 KPI definitions, statistical and ML anomaly detection, LLM analyst via Anthropic API, MCP server, FastAPI backend, Streamlit dashboard, automated Excel/PPT reporting | `FastAPI` `MCP` `LLM` `Streamlit` `Docker` |
+
 ### Hackathon Projects
 
 | Repository | Description | Result |
