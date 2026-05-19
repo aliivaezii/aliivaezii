@@ -1,6 +1,6 @@
 # Ali Vaezi
 
-MSc student at Politecnico di Torino, with thesis research in collaboration with Eindhoven University of Technology.
+MSc student at Politecnico di Torino, conducting thesis research at Eindhoven University of Technology.
 Applied ML and reinforcement learning researcher with five years of industrial analytics experience in automotive supply chain.
 Based in Turin, Italy.
 
@@ -46,4 +46,4 @@ Current first-author work: sim-to-real locomotion (IEEE RA-L, under review) and 
 
 ## Contact
 
-[aliivaezii.github.io](https://aliivaezii.github.io) · [LinkedIn](https://linkedin.com/in/aliivaezii) · [Google Scholar](https://scholar.google.com/citations?user=srfI0AMAAAAJ) · ali.vaezi@studenti.polito.it
+[GitHub Pages](https://aliivaezii.github.io) · [LinkedIn](https://linkedin.com/in/aliivaezii) · [Google Scholar](https://scholar.google.com/citations?user=srfI0AMAAAAJ) · [ali.vaezi@studenti.polito.it](mailto:ali.vaezi@studenti.polito.it)
